@@ -1,24 +1,13 @@
-# Olá, eu sou o Leonardo! 👋
+# ⚙️ Laboratório de Lógica de Programação - C++ & Python
 
-Bem-vindo ao meu perfil do GitHub. Sou estudante de tecnologia focado em Engenharia de Software, Desenvolvimento Web e algoritmos. Construo minha jornada de código diariamente através de um setup mobile focado em máxima eficiência e portabilidade.
+Este repositório é dedicado exclusivamente ao meu desenvolvimento em lógica pura, algoritmos estruturados e resolução massiva de problemas. Todo o progresso é construído usando um setup mobile iOS no Spck Editor com teclado físico externo.
 
-## 🎓 Formação & Contexto Acadêmico
-* **Instituição:** Aluno de Programação Web na Uninter (Graduação Tecnológica).
-* **Objetivo Técnico:** Domínio completo da stack web (HTML5, CSS3, JavaScript) e engenharia de software estruturada.
+## 🗂️ Arquitetura de Pastas
 
-## 💻 Tech Stack & Ferramentas
-* **Linguagens:** C++ (Base lógica e estruturas de controle) e JavaScript (Ecossistema Web).
-* **Desenvolvimento Web:** HTML5 Semântico, Arquitetura de Informação e CSS3.
-* **Ferramentas:** Git, GitHub, Spck Editor (Mobile IDE) e compiladores C++ nativos.
+* `📂 fundamentos-cpp/` -> Algoritmos estruturados em C++ Puro (eXcript).
+  * `📂 01-conceitos-basicos/` -> Variáveis, operadores, entrada/saída (`cin`/`cout`), formatação (`setw`) e tipos lógicos (`bool`).
+  * `📂 02-estruturas-condicionais/` -> Controle de fluxo (`if/else`, `switch`) e travas de segurança.
+* `📂 desafios-python/` -> Coleção de 64 algoritmos e automações (Curso em Vídeo).
 
-## 📱 Meu Setup de Engenharia
-* **Dispositivo:** iOS (iPhone)
-* **Interface:** Teclado físico conectado + Spck Editor integrado ao Git
-* **Filosofia:** "A constância e a disciplina superam qualquer barreira física ou de hardware."
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://vercel.app" />
-  <img height="180em" src="https://vercel.app" />
-</p>
+---
+> *"Consistência vence a intensidade."* O horizonte é o mercado internacional em 2027.
