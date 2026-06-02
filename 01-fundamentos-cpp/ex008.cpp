@@ -1,0 +1,25 @@
+#include <iostream>
+#include <stdlib.h>
+
+using namespace std;
+
+int main() {
+
+  int num1, num2;
+  num1 = 10;
+  num2 = 3;
+  
+  int div = num1 / num2;
+  int resto = num1 % num2;
+
+  cout << "A divisao dos dois valores é: " << div << endl;
+  cout << "O resto da divisao dos dois valores é: " << resto << endl;
+  
+  cout << "O modulo entre 3 e 2 e: " << 3 % 2 << endl;
+  cout << "O modulo entre 4 e 2 e: " << 4 % 2 << endl;
+  cout << "O modulo entre 5 e 2 e: " << 5 % 2 << endl;
+  cout << "O modulo entre 6 e 2 e: " << 6 % 2 << endl;
+
+  system("pause");
+  return 0;
+}
